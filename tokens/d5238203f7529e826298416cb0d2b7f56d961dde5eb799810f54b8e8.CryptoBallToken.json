@@ -1,0 +1,10 @@
+{
+    "policyId": "d5238203f7529e826298416cb0d2b7f56d961dde5eb799810f54b8e8",
+    "name": "Crypto Ball Token",
+    "symbol": "$COBA",
+    "website": "https://cobatoken.com",
+    "description": "Crypto ball decentralized community token inspired from the famous and legendary country ball memes",
+    "totalSupply": 1000000000000000,
+    "amounts": [500000000, 1000000000, 2000000000, 4000000000, 6000000000, 8000000000, 10000000000],
+    "decimalPlaces": 0
+}
